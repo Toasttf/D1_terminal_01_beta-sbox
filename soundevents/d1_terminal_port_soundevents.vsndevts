@@ -1,0 +1,457 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+    hl2b.click1 =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 500.0
+        vsnd_files = 
+        [
+            "sounds/click1.vsnd",
+        ]
+    }
+    hl2b.coldwind3_loop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/coldwind3_loop.vsnd",
+        ]
+    }
+	hl2b.courtyard_mach_loop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 600.0
+        vsnd_files = 
+        [
+            "sounds/courtyard_mach_loop.vsnd",
+        ]
+    }
+	hl2b.creaking =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.300000
+        use_hrtf = 1.000000
+		volume_falloff_max = 600.0
+        vsnd_files = 
+        [
+            "sounds/creaking.vsnd",
+        ]
+    }
+	hl2b.drone_loop =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.400000
+        use_hrtf = 1.000000
+		volume_falloff_max = 500.0
+        vsnd_files = 
+        [
+            "sounds/drone_loop.vsnd",
+        ]
+    }	
+	hl2b.elevator_amb =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.600000
+        use_hrtf = 1.000000
+		volume_falloff_max = 500.0
+		fade_in = 5.0
+		fade_out = 30.0
+        vsnd_files = 
+        [
+            "sounds/elevator_amb.vsnd",
+        ]
+    }	
+	hl2b.elevator_amb2 =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.600000
+        use_hrtf = 1.000000
+		volume_falloff_max = 500.0
+        vsnd_files = 
+        [
+            "sounds/elevator_amb.vsnd",
+        ]
+    }		
+	hl2b.lower_hallway_amb =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		fade_in = 5.0
+		fade_out = 30.0
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/lower_hallway_amb.vsnd",
+        ]
+    }
+	hl2b.manhole_loop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 400.0
+        vsnd_files = 
+        [
+            "sounds/manhole_loop.vsnd",
+        ]
+    }
+	hl2b.metal_rattle =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/metal_rattle.vsnd",
+        ]
+    }
+	hl2b.over_tunnel_loop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 600.0
+        vsnd_files = 
+        [
+            "sounds/over_tunnel_loop.vsnd",
+        ]
+    }
+	hl2b.plaza_amb =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.900000
+        use_hrtf = 1.000000
+		fade_in = 30.0
+		fade_out = 30.0
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/plaza_amb.vsnd",
+        ]
+    }
+	hl2b.pole_loop =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.800000
+        use_hrtf = 1.000000
+		volume_falloff_max = 600.0
+        vsnd_files = 
+        [
+            "sounds/pole_loop.vsnd",
+        ]
+    }
+	hl2b.skylift_amb =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.600000
+        use_hrtf = 1.000000
+		fade_in = 30.0
+		fade_out = 65.0
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/skylift_amb.vsnd",
+        ]
+    }
+	hl2b.skylift_move =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.500000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/skylift_move.vsnd",
+        ]
+    }
+	hl2b.skylift_stop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/skylift_stop.vsnd",
+        ]
+    }
+	hl2b.squeal1 =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.500000
+        use_hrtf = 1.000000
+		volume_falloff_max = 500.0
+        vsnd_files = 
+        [
+            "sounds/squeal1.vsnd",
+        ]
+    }	
+	hl2b.string1 =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.500000
+        use_hrtf = 1.000000
+		volume_falloff_max = 500.0
+        vsnd_files = 
+        [
+            "sounds/string1.vsnd",
+        ]
+    }
+	hl2b.theme1_loop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 500.0
+        vsnd_files = 
+        [
+            "sounds/theme1_loop.vsnd",
+        ]
+    }
+	hl2b.thunder1 =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/thunder1.vsnd",
+        ]
+    }
+	hl2b.thunder2 =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/thunder2.vsnd",
+        ]
+    }
+	hl2b.tink1 =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.200000
+        use_hrtf = 1.000000
+		volume_falloff_max = 500.0
+        vsnd_files = 
+        [
+            "sounds/tink1.vsnd",
+        ]
+    }
+	hl2b.train_station_loop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 600.0
+        vsnd_files = 
+        [
+            "sounds/train_station_loop.vsnd",
+        ]
+    }
+	hl2b.transformer_loop =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.800000
+        use_hrtf = 1.000000
+		volume_falloff_max = 300.0
+        vsnd_files = 
+        [
+            "sounds/transformer_loop.vsnd",
+        ]
+    }
+	hl2b.tunnel_amb =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+		fade_in = 5.0
+		fade_out = 30.0
+        vsnd_files = 
+        [
+            "sounds/tunnel_amb.vsnd",
+        ]
+    }
+	hl2b.tv_loop1 =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.500000
+        use_hrtf = 1.000000
+		volume_falloff_max = 400.0
+        vsnd_files = 
+        [
+            "sounds/tv_loop1.vsnd",
+        ]
+    }
+	hl2b.tv_loop2 =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.500000
+        use_hrtf = 1.000000
+		volume_falloff_max = 400.0
+        vsnd_files = 
+        [
+            "sounds/tv_loop2.vsnd",
+        ]
+    }
+	hl2b.upper_catwalk_amb =
+    {
+        type = "hlvr_default_3d"
+        volume = 0.700000
+        use_hrtf = 1.000000
+		fade_in = 5.0
+		fade_out = 30.0
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/upper_catwalk_amb.vsnd",
+        ]
+    }
+	hl2b.upper_hallway_amb =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+		fade_in = 5.0
+		fade_out = 30.0
+        vsnd_files = 
+        [
+            "sounds/upper_hallway_amb.vsnd",
+        ]
+    }
+	hl2b.windgust =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/windgust.vsnd",
+        ]
+    }
+	hl2b.windgust_strong =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/windgust_strong.vsnd",
+        ]
+    }
+	hl2b.word1 =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 500.0
+        vsnd_files = 
+        [
+            "sounds/word1.vsnd",
+        ]
+    }
+	hl2b.hall_elev_door_move =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/hall_elev_door_move.vsnd",
+        ]
+    }
+	hl2b.hall_elev_door_stop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/hall_elev_door_stop.vsnd",
+        ]
+    }
+	hl2b.hall_elev_move =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/hall_elev_move.vsnd",
+        ]
+    }
+	hl2b.hall_elev_stop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/hall_elev_stop.vsnd",
+        ]
+    }
+	hl2b.elevator_loop1 =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0
+        vsnd_files = 
+        [
+            "sounds/elevator_loop1.vsnd",
+        ]
+    }
+	hl2b.elevator_stop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0		
+        vsnd_files = 
+        [
+            "sounds/elevator_stop.vsnd",
+        ]
+    }
+	hl2b.door1_move =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0		
+        vsnd_files = 
+        [
+            "sounds/door1_move.vsnd",
+        ]
+    }
+	hl2b.door1_stop =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+		volume_falloff_max = 1250.0		
+        vsnd_files = 
+        [
+            "sounds/door1_stop.vsnd",
+        ]
+    }
+}
